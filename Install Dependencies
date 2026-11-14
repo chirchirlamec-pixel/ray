@@ -1,0 +1,5 @@
+npm install next-auth @auth/prisma-adapter
+npm install prisma @prisma/client
+npm install bcrypt
+npm install zod react-hook-form
+npm install bcryptjs
